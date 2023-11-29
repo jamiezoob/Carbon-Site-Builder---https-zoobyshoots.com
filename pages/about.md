@@ -6,4 +6,4 @@ permalink: /about
 
 # Who is Zooby?
 
-Zooby is actor, artist, photographer, voiceover and poet playwright Jamie Zubairi
+Zooby is actor, artist, photographer, voiceover and poet playwright [Jamie Zubairi](http://www.jamiezubairi.com)
